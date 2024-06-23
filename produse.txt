@@ -1,0 +1,15 @@
+1,mar,fructe,2.5
+2,lapte,alimente,3.5
+3,ciocolata,dulciuri,4.5
+4,apa,alimente,1.5
+5,cafea,alimente,5.5
+6,ceai,alimente,4.5
+7,perie,igiena,3.5
+8,spalat,igiena,2.5
+9,deodorant,igiena,5.5
+10,corn cu ciocolata,dulciuri,2.5
+11,sare,alimente,1
+12,banana,fructe,3
+13,vin,bautura,50
+14,pepsi,bautura,20
+15,faina,alimente,12
